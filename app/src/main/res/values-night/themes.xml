@@ -1,0 +1,4 @@
+<resources>
+    <!-- Dark window behind the first Compose frame, so dark mode doesn't flash white on launch. -->
+    <style name="Theme.ChallengeClock" parent="android:Theme.Material.NoActionBar" />
+</resources>

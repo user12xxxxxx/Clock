@@ -1,0 +1,12 @@
+<!-- Just the clock hands at 10:10, in onPrimaryContainer over the primaryContainer background. 108dp canvas, art inside the 66dp safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M54,54 l-13.9,-8 M54,54 l20.8,-12"
+        android:strokeWidth="8"
+        android:strokeColor="@android:color/system_accent1_900"
+        android:strokeLineCap="round" />
+</vector>
